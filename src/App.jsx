@@ -650,8 +650,8 @@ function Footer() {
           Deh<span className="text-sky-400">emi</span>
         </span>
         
-        <p className="text-xs text-slate-600">© 2025 Dehemi. Crafted with precision.</p>
-        <p className="text-xs text-slate-600">React · Tailwind · Framer Motion</p>
+        <p className="text-xs text-slate-600">©  Dehemi. Crafted with precision.</p>
+        {/* <p className="text-xs text-slate-600">React · Tailwind · Framer Motion</p> */}
       </div>
     </footer>
   );
