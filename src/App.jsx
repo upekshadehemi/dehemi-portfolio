@@ -77,7 +77,7 @@ const EXPERIENCE = [
   },
 ];
 
-
+//projects data with images and highlights
 const PROJECTS = [
   {
     name: "Hotel ERP System",
